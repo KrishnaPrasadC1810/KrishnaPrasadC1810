@@ -55,8 +55,8 @@ I specialize in **data cleaning, visualization, and modeling**, with hands-on ex
 
 ## 🎓 **Education & Certifications**
 - **Bachelor of Computer Applications (BCA)** | DePaul First Grade College, Mysore *(2021-2024)*  
-- **Data Analyst Certification** | ExcellR *(Feb 2025)*  
-
+- [**Data Analyst Certification** | ExcellR *(Feb 2025)* ] (https://github.com/KrishnaPrasadC1810/KrishnaPrasadC1810/blob/main/certificates/Data%20Analystics%20Certificate.pdf)
+- [Data Analyst Intern | A.I Variant ](https://github.com/KrishnaPrasadC1810/KrishnaPrasadC1810/blob/main/certificates/Intership%20Certificate.pdf)
 ---
 
 ## 🌟 **Why Explore This Repository?**
