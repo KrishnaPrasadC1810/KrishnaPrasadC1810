@@ -7,7 +7,7 @@
 ## 🚀 **About Me**
 - 📍 Based in Kannur, Kerala, India  
 - 📧 Email: [krishnaprasadc1810@gmail.com](mailto:krishnaprasadc1810@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/krishnaprasadc18](https://linkedin.com/in/krishnaprasadc18)  
+- 🔗 LinkedIn: [krishnaprasadc1810](https://linkedin.com/in/krishnaprasadc18)  
 
 **Summary**:  
 I specialize in **data cleaning, visualization, and modeling**, with hands-on experience in KPI tracking, ETL processes, and dashboard development. My goal is to leverage data to drive strategic decisions and optimize performance.
@@ -47,7 +47,7 @@ I specialize in **data cleaning, visualization, and modeling**, with hands-on ex
 ## 📂 **Projects** 
 ### - [Supply_Chain_Management](https://github.com/KrishnaPrasadC1810/Supply-Chain-Analysis)
 ### - [E-commerce_Olist_Store_Analysis](https://github.com/KrishnaPrasadC1810/E-commerce-Olist-Store-Analysis)
-### - [USA_SuperStore_Analysis](https://github.com/KrishnaPrasadC1810/USA-SuperStore-Analysi
+### - [USA_SuperStore_Analysis](https://github.com/KrishnaPrasadC1810/USA-SuperStore-Analysis)
 
 *(More projects coming soon! Stay tuned.)*  
 
