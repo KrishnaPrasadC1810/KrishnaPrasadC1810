@@ -44,10 +44,10 @@ I specialize in **data cleaning, visualization, and modeling**, with hands-on ex
 
 ---
 
-## 📂 **Projects**
-### - **Supply_Chain_Management**  
-### - **E-commerce_Olist_Store_Analysis**
-### - **USA_SuperStore_Analysis**
+## 📂 **Projects** 
+### - [Supply_Chain_Management](https://github.com/KrishnaPrasadC1810/Supply-Chain-Analysis)
+### - [E-commerce_Olist_Store_Analysis](https://github.com/KrishnaPrasadC1810/E-commerce-Olist-Store-Analysis)
+### - [USA_SuperStore_Analysis](https://github.com/KrishnaPrasadC1810/USA-SuperStore-Analysi
 
 *(More projects coming soon! Stay tuned.)*  
 
